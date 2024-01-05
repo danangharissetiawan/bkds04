@@ -11,7 +11,7 @@ from generate_ds import generate_random_dataframe
 
 
 # models directory
-models_dir = "../models/"
+models_dir = "models/"
 model_files = [file for file in os.listdir(models_dir) if file.endswith(".pkl")]
 
 # generate dataset
