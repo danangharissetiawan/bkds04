@@ -1,0 +1,12 @@
+streamlit
+pandas
+imblearn
+numpy
+scikit-learn
+ucimlrepo
+statsmodels
+yellowbrick
+matplotlib
+scipy
+seaborn
+scikit-learn
